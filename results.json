@@ -16,6 +16,7 @@
     "result2": "30+  8.",
     "result_detail1": "{\"top1\":\"1\",\"zone1\":\"1\",\"zone2\":\"1\",\"top3\":\"1\",\"zone3\":\"1\",\"zone4\":\"5\",\"checked\":\"\"}",
     "result_detail2": "{\"result_time_l\":\"4.590\",\"eliminated_l\":null}",
+    "result_detail3": "{\"result_time_l\":\"\",\"eliminated_l\":\"\",\"false_start\":1}",
     "result_modified": "1504977769",
     "result_rank": 4,
     "result_rank0": "2",
